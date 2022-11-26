@@ -1,0 +1,30 @@
+#ejecuciones-container
+{
+    margin-top: 150px;
+    background: #EDF4F1;
+    background-color: #F2F4F4  ;
+}
+#ejecuciones-buscar-container, 
+#ejecuciones-crear-container
+{
+    margin-top: 50px;
+}
+.react-bs-table-sizePerPage-dropdown .dropdown-toggle{
+    float: left;
+    margin-bottom: 20px;
+} 
+.search-label{
+    float: right;
+    padding-bottom: 10px;
+}
+.sr-only{
+    font-size: 0;
+}
+#ejecuciones-crear-container .form-label{
+    float: left;
+    margin-bottom: 10px;
+}
+#ejecuciones-editar-container .form-label{
+    float: left;
+    margin-bottom: 10px;
+}

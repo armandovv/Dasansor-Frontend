@@ -1,0 +1,27 @@
+
+#login-container{
+    
+    
+    background-image: url('https://concepto.de/wp-content/uploads/2020/03/telecomunicaciones-e1584304488912.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+
+margin-top: 10%;
+}
+
+#login-container h2,
+#login-container button,
+
+#login-container form{
+width: 100%;
+}
+
+#login-container button{
+margin-top: 15px;
+}
+
+#login-container .form-label{
+float: left;
+
+}

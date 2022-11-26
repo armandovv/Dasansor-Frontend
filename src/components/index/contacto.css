@@ -1,0 +1,46 @@
+body{
+    
+    
+    background-image: url('http://havs.cl/style/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+
+
+}
+#contacto-container{
+    margin-top: 10%;
+   
+}
+
+#contacto-container h2,
+#login-container button,
+
+#contacto-container form{
+    width: 100%;
+   color:darkcyan;
+   text-align: center;
+}
+
+#contacto-container button{
+    margin-top: 10px;
+}
+
+#contacto-container .form-label{
+    float: left;
+}
+
+.col-md-600{
+    width: 600px;
+    text-align: right;
+    
+
+}
+.col-md-8{
+    width: 330px;
+}
+h4{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
