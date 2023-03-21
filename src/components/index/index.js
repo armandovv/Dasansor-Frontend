@@ -27,7 +27,7 @@ export default class inicio  extends React.Component {
               />
               <Carousel.Caption>
                 
-                <h3>Conectar es mas simple!!</h3>
+                <h3>Conectar es mejor!!</h3>
                 
               </Carousel.Caption>
             </Carousel.Item>
